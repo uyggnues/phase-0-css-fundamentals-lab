@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, header, section#featured-property {
+  text-align: center;
+  
+}
+
+nav > a {
+  background-color: grey;
+}
+
+h3#contacts{
+  text-align: left;
+}
+h3#correspondence {
+  text-align: inherit;
+}
+
+
+section#featured-property#p {
+  width: 800px;
+  text-align: center;
+}
+
+nav#p {
+  padding: 10px;
+}
+
+section#details#div#h3#Contacts {
+  float: left;
+  text-align: center;
+}
